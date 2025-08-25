@@ -29,7 +29,6 @@ public class ContactTest {
     @Test
     public void testSetId()
     {
-        Assertions.fail("on purpose for testing");
         contact.setId(1);
         assertEquals(1, contact.getId());
     }
