@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/// Contact Tests
 public class ContactTest {
 
     private static final String FIRST_NAME = "John";
