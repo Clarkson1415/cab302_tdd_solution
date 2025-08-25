@@ -16,7 +16,6 @@ public class ContactTest {
     private static final String PHONE = "123456";
     private static final String PHONE_TWO = "654321";
 
-
     private Contact contact;
     private Contact contactTwo;
 
